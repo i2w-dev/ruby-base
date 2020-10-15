@@ -6,5 +6,5 @@ It is available at https://hub.docker.com/repository/docker/i2wdev/ruby-base
 
 ## build and push
 
-    docker build -t i2wdev/ruby-base:2.7.1 .
-    docker push i2wdev/ruby-base:2.7.1
+    docker build -t i2wdev/ruby-base:2.7.2 .
+    docker push i2wdev/ruby-base:2.7.2
